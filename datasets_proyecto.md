@@ -1,8 +1,6 @@
-# Ideas de datos para el proyecto Capstone
+# Ideas de datos para el proyecto Track Ciencia de Datos
 
-Listado de posibles conjuntos de datos para el proyecto Capstone. El proyecto
-puede usar cualquier conjunto de datos que sirva a su pregunta. Los enlaces
-fueron verificados en agosto de 2026.
+Listado de posibles conjuntos de datos para efectuar analisis de datos.
 
 Todos los enlaces llevan a páginas desde donde los datos se pueden descargar.
 
@@ -31,9 +29,6 @@ Todos los enlaces llevan a páginas desde donde los datos se pueden descargar.
   asentamientos informales del país con hogares estimados, descargable en CSV
   y formatos geográficos; TECHO-Chile publica su propio
   [catastro](https://cl.techo.org/ces-catastros/).
-- Reportes de la aplicación SOSAFE: reportes ciudadanos de incidentes de
-  seguridad. No tienen descarga pública: preguntar a la profesora Daniela
-  Opitz.
 - [Mapas vectoriales, BCN](https://www.bcn.cl/siit/mapas_vectoriales/index_html):
   límites administrativos de Chile en formato shapefile.
 - [OpenStreetMap Chile, Geofabrik](http://download.geofabrik.de/south-america/chile.html):
@@ -67,7 +62,7 @@ Todos los enlaces llevan a páginas desde donde los datos se pueden descargar.
   en JSON; archivos grandes. Desde el cierre de la API de X no hay datos
   actuales de libre acceso.
 - [Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140):
-  1,6 millones de tweets en inglés etiquetados por sentimiento; el clásico
+  1,6 millones de tweets en inglés etiquetados por sentimiento; es un clásico
   para análisis de texto.
 - [Tweets en español sobre inteligencia artificial](https://zenodo.org/records/10821485):
   4.038 tweets en español, CSV con licencia CC BY.
