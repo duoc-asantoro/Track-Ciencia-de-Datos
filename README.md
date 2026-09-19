@@ -21,3 +21,9 @@ b.- Coordinación de desafíos prácticos autogestionados por los alumnos de la 
 c. Sesiones breves de retroalimentación a las propuestas presentadas por los estudiantes.
 
 Esta iniciativa se vincula directamente con los conocimientos en Ciencias de Datos : traspasando didácticamente las técnicas de análisis avanzado y gestión de datos, utilizándolas para guiar, estructurar y validar la rigurosidad científica de los proyectos que los alumnos desarrollen de forma autónoma.
+
+## 3. Bibliografía
+
+La siguiente es una Lista de Libros que se encuentran accesibles en la Biblioteca Digital O´Really, la cual se encuentra disponible para todos los alumnos de DUOC (accediendo con su cuenta de alumno)
+
+- https://learning-oreilly-com.webezproxy.duoc.cl/playlists/ce074b13-314a-4c60-87ed-a7a0b175fa22
