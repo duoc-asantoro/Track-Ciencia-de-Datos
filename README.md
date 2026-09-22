@@ -30,7 +30,7 @@ La siguiente es una Lista de Libros que se encuentran accesibles en la Bibliotec
 
 ## 4. Propuesta Plan de Trabajo
 
-**0. Metodología**
+**4.1. Metodología**
 
 **a. Formato : "Agile/Laboratorio de Aprendizaje"**
 - estudiantes son los ejecutores
@@ -45,7 +45,7 @@ La siguiente es una Lista de Libros que se encuentran accesibles en la Bibliotec
   - ¿Con qué sesgo, error de código o ausencia de dato se encontró?
   - ¿Qué se efectuará la próxima semana?
 
-**1. Gobernanza de Proyectos y Estándar Git (Semanas 1-2)**
+**4.2. Gobernanza de Proyectos y Estándar Git (Semanas 1-2)**
 Con duplas trabajando en paralelo sobre el mismo repositorio u organización, la gestión de código puede volverse caótica rápidamente si no hay normas claras.
 
 Estructura de Repositorio Unificada: plantilla de proyecto base en el GitHub/GitLab del CITT.
@@ -66,3 +66,10 @@ Definir casos específicos, tales como:
 
 **RUTs y Privacidad:** Cuales serán las reglas de anonimización o manejo ético cuando los dataset contengan RUTs o nombres personales.
 
+**4.3. Hitos y Transferencia Tecnológica**
+
+- **Hito 1 (Semana 4) - Data Pitch & EDA:** Presentación de 7 minutos por dupla con la carga del dataset, diccionario de datos identificado y  3 preguntas de negocio/públicas que responderán.
+
+- **Hito 2 (Semana 8) - MVP Analítico (Dashboard / Pipeline):** Presentación del primer modelo descriptivo funcional o panel interactivo.
+
+- **Hito 3 (Semana 12) - Demo Day :** Cierre del Track donde las duplas efectúan presentación ante la comunidad DUOC. Cada dupla entrega un Jupyter Notebook reproducible y un resumen de hallazgos (Resumen de Politica de 2 páginas).
