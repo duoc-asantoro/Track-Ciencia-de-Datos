@@ -47,7 +47,7 @@ La siguiente es una Lista de Libros que se encuentran accesibles en la Bibliotec
 - Evaluación cruzada : Entre semanas 6 y 8, cada dupla revisa y comenta el código del repositorio de otra dupla (chequeo cruzado)
 
 **4.2. Gobernanza de Proyectos y Estándar Git (Semanas 1-2)**
-Con duplas trabajando en paralelo sobre el mismo repositorio u organización, la gestión de código puede volverse caótica rápidamente si no hay normas claras.
+Con duplas trabajando en paralelo sobre el mismo repositorio utilizando diferentes ramas por cada dupla, la gestión de código puede volverse caótica rápidamente si no hay normas claras.
 
 Estructura de Repositorio Unificada: plantilla de proyecto base en el GitHub/GitLab del CITT.
 
@@ -66,6 +66,8 @@ Definir casos específicos, tales como:
 **Protocolo de Datos Pesados:** Como se trabajará con datos que pesan gigabytes (Caso MercadoPublico), recordar que Git no guarda datasets. Abordar uso de .gitignore y almacenamiento compartido local.
 
 **RUTs y Privacidad:** Cuales serán las reglas de anonimización o manejo ético cuando los dataset contengan RUTs o nombres personales.
+
+**MERGE en GIT está prohibido, para no perder la información de las diferentes ramas**
 
 **4.3. Hitos y Transferencia Tecnológica**
 
