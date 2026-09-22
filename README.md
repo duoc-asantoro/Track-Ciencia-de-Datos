@@ -69,8 +69,14 @@ Definir casos específicos, tales como:
 
 **4.3. Hitos y Transferencia Tecnológica**
 
-- **Hito 1 (Semana 4) - Data Pitch & EDA:** Presentación de 7 minutos por dupla con la carga del dataset, diccionario de datos identificado y  3 preguntas de negocio/públicas que responderán.
+- **Hito 1 (Semana 4) - Data Pitch & EDA:**
+  - Entregable: Presentación de 7 minutos por dupla + repositorio GIT con ingesta inicial.
+  - Contenido : Muestra de carga de datos, diccionario de datos identificado y 3 preguntas de negocio/públicas que responderá el proyecto.
 
-- **Hito 2 (Semana 8) - MVP Analítico (Dashboard / Pipeline):** Presentación del primer modelo descriptivo funcional o panel interactivo.
+- **Hito 2 (Semana 8) - MVP Analítico (Dashboard / Pipeline):**
+  - Entregable: Producto Minimo Viable funcional + pipeline de datos en scripts '.py'
+  - Contenido: Presentación del primer modelo descriptivo funcional o panel interactivo. Incluye revisión cruzada.
 
-- **Hito 3 (Semana 12) - Demo Day :** Cierre del Track donde las duplas efectúan presentación ante la comunidad DUOC. Cada dupla entrega un Jupyter Notebook reproducible y un resumen de hallazgos (Resumen de Politica de 2 páginas).
+- **Hito 3 (Semana 12) - Demo Day & Transferencia Duoc UC:**
+  - Entregable: Presentación Final abierta + codigo fuente consolidado.
+  - contenido: Evento de cierre del Track con exposición ante la Comunidad DUOC UC. Cada dupla  entrega un Jupyter Notebook reproducible y un resumen de hallazgos (Resumen de Politica de 2 páginas con hallazgos e impacto).
