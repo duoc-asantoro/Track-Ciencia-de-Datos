@@ -48,7 +48,7 @@ La siguiente es una Lista de Libros que se encuentran accesibles en la Bibliotec
 **1. Gobernanza de Proyectos y Estándar Git (Semanas 1-2)**
 Con duplas trabajando en paralelo sobre el mismo repositorio u organización, la gestión de código puede volverse caótica rápidamente si no hay normas claras.
 
-Estructura de Repositorio Unificada: Establece una plantilla de proyecto base en el GitHub/GitLab del CITT.
+Estructura de Repositorio Unificada: plantilla de proyecto base en el GitHub/GitLab del CITT.
 
 ├── data/            <- raw/, processed/, final/ (ver como resolver caso de datos pesados)
 
