@@ -27,3 +27,25 @@ Esta iniciativa se vincula directamente con los conocimientos en Ciencias de Dat
 La siguiente es una Lista de Libros que se encuentran accesibles en la Biblioteca Digital O´Really, la cual se encuentra disponible para todos los alumnos de DUOC (accediendo con su cuenta de alumno)
 
 - https://learning-oreilly-com.webezproxy.duoc.cl/playlists/ce074b13-314a-4c60-87ed-a7a0b175fa22
+
+## 4. Propuesta Plan de Trabajo
+
+**Formato : "Agile/Laboratorio de Aprendizaje"** (estudiantes como ejecutores, profesor como facilitador, trabajo en duplas, control de versiones en Git y aprendizaje guiado por proyectos).
+
+**1. Gobernanza de Proyectos y Estándar Git (Semanas 1-2)**
+Con duplas trabajando en paralelo sobre el mismo repositorio u organización, la gestión de código puede volverse caótica rápidamente si no hay normas claras.
+
+Estructura de Repositorio Unificada: Establece una plantilla de proyecto base en el GitHub/GitLab del CITT.
+
+├── data/            <- raw/, processed/, final/ (ver como resolver caso de datos pesados)
+├── notebooks/       <- Exploratorios versionados (1.0-eda.ipynb)
+├── src/             <- Scripts Python modulares (.py)
+├── references/      <- Documentación y diccionarios de datos
+└── README.md        <- Hipótesis, objetivos de la dupla y resultados
+
+Definir casos específicos, tales como:
+
+**Protocolo de Datos Pesados:** Como se trabajará con datos que pesan gigabytes (Caso MercadoPublico), recordar que Git no guarda datasets. Abordar uso de .gitignore y almacenamiento compartido local.
+
+**RUTs y Privacidad:** Cuales serán las reglas de anonimización o manejo ético cuando los dataset contengan RUTs o nombres personales.
+
