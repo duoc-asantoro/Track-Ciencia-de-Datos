@@ -38,9 +38,13 @@ Con duplas trabajando en paralelo sobre el mismo repositorio u organización, la
 Estructura de Repositorio Unificada: Establece una plantilla de proyecto base en el GitHub/GitLab del CITT.
 
 ├── data/            <- raw/, processed/, final/ (ver como resolver caso de datos pesados)
+
 ├── notebooks/       <- Exploratorios versionados (1.0-eda.ipynb)
+
 ├── src/             <- Scripts Python modulares (.py)
+
 ├── references/      <- Documentación y diccionarios de datos
+
 └── README.md        <- Hipótesis, objetivos de la dupla y resultados
 
 Definir casos específicos, tales como:
