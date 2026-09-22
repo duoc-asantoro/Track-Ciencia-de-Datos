@@ -82,3 +82,10 @@ Definir casos específicos, tales como:
 - **Hito 3 (Semana 12) - Demo Day & Transferencia Duoc UC:**
   - Entregable: Presentación Final abierta + codigo fuente consolidado.
   - contenido: Evento de cierre del Track con exposición ante la Comunidad DUOC UC. Cada dupla  entrega un Jupyter Notebook reproducible y un resumen de hallazgos (Resumen de Politica de 2 páginas con hallazgos e impacto).
+
+# DUPLAS
+
+1.- Pamela Toro y Alejandra Marambio : NOMBRES DE GUAGUAS
+2.- Benjamín Sánchez y Cristóbal Zeppelin : por definir
+3.- Jorge Toledo y Scarleth.... : por definir
+4.- Luis Maulen y .... : por definir
