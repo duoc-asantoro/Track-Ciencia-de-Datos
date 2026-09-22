@@ -30,7 +30,20 @@ La siguiente es una Lista de Libros que se encuentran accesibles en la Bibliotec
 
 ## 4. Propuesta Plan de Trabajo
 
-**Formato : "Agile/Laboratorio de Aprendizaje"** (estudiantes como ejecutores, profesor como facilitador, trabajo en duplas, control de versiones en Git y aprendizaje guiado por proyectos).
+**0. Metodología**
+
+**a. Formato : "Agile/Laboratorio de Aprendizaje"**
+- estudiantes son los ejecutores
+- profesor es facilitador
+- trabajo en duplas
+- control de versiones en Git
+
+**b. Weekly-Meeting**
+- rol docente actua como ScrumMaster
+- Stand-ups semanales (15-20 min al inicio): Cada dupla responde en 3 minutos:
+  - ¿Qué analizó, construyó la dupla durante la anterior semana?
+  - ¿Con qué sesgo, error de código o ausencia de dato se encontró?
+  - ¿Qué se efectuará la próxima semana?
 
 **1. Gobernanza de Proyectos y Estándar Git (Semanas 1-2)**
 Con duplas trabajando en paralelo sobre el mismo repositorio u organización, la gestión de código puede volverse caótica rápidamente si no hay normas claras.
