@@ -86,6 +86,6 @@ Definir casos específicos, tales como:
 # DUPLAS
 
 1.- Pamela Toro y Alejandra Marambio : NOMBRES DE GUAGUAS
-2.- Benjamín Sánchez y Cristóbal Zeppelin : por definir
-3.- Jorge Toledo y Scarleth.... : por definir
+2.- Benjamín Sánchez y Cristóbal Zeppelin : Reporte de COVID
+3.- Jorge Toledo y Scarleth.... : Comportamiento Delitos
 4.- Luis Maulen y .... : por definir
